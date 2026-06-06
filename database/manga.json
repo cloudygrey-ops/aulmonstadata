@@ -1,0 +1,43 @@
+{
+  "manga_id": "manhwa-dragonslayer-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Return of the Bloodthirsty Sword, The Dragon Slayer's Return",
+  "status": "Ongoing",
+  "author": "Nangman, Yu Sung",
+  "artist": "Bae Hyun",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Umat manusia berada di ambang kehancuran. Sebagai pemburu naga terkuat, aku berjuang hingga titik darah penghabisan melawan penguasa naga, namun pada akhirnya gagal. Namun, tepat ketika aku berpikir semuanya telah berakhir, aku terbangun kembali di masa lalu. Dengan ingatan, teknik, dan pengalaman dari kehidupanku sebelumnya, ini adalah kesempatan keduaku untuk memperbaiki segalanya dan membantai naga-naga itu dari awal.",
+  "cover_url": "https://raw.githubusercontent.com/username/MonstaComicAsset/main/covers/dragonslayer-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Akhir dan Awal yang Baru",
+      "pages": [
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/004.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Membangkitkan Mana Core",
+      "pages": [
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/004.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/005.jpg"
+      ]
+    }
+  ]
+}
