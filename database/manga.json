@@ -1,43 +1,74 @@
-{
-  "manga_id": "manhwa-dragonslayer-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Return of the Bloodthirsty Sword, The Dragon Slayer's Return",
-  "status": "Ongoing",
-  "author": "Nangman, Yu Sung",
-  "artist": "Bae Hyun",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Umat manusia berada di ambang kehancuran. Sebagai pemburu naga terkuat, aku berjuang hingga titik darah penghabisan melawan penguasa naga, namun pada akhirnya gagal. Namun, tepat ketika aku berpikir semuanya telah berakhir, aku terbangun kembali di masa lalu. Dengan ingatan, teknik, dan pengalaman dari kehidupanku sebelumnya, ini adalah kesempatan keduaku untuk memperbaiki segalanya dan membantai naga-naga itu dari awal.",
-  "cover_url": "https://raw.githubusercontent.com/username/MonstaComicAsset/main/covers/dragonslayer-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Akhir dan Awal yang Baru",
-      "pages": [
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/004.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-001/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Membangkitkan Mana Core",
-      "pages": [
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/004.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComicAsset/main/manhwa-dragonslayer-peerless-regression/ch-002/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "a-cadet-becomes-a-prophet",
+    "title": "A Cadet Becomes a Prophet",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=A%20Cadet%20Becomes%20a%20Prophet",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/action/A Cadet Becomes a Prophet.cbz",
+    "category": "action",
+    "status": "Ongoing",
+    "type": "Comic"
+  },
+  {
+    "manga_id": "academy-s-genius-swordmaster",
+    "title": "Academy s Genius Swordmaster",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=Academy%20s%20Genius%20Swordmaster",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/action/Academy_s Genius Swordmaster.cbz",
+    "category": "action",
+    "status": "Ongoing",
+    "type": "Comic"
+  },
+  {
+    "manga_id": "children-of-the-rune",
+    "title": "Children of the Rune",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=Children%20of%20the%20Rune",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/action/Children of the Rune.cbz",
+    "category": "action",
+    "status": "Ongoing",
+    "type": "Comic"
+  },
+  {
+    "manga_id": "the-hero-starts-over-at-the-academy",
+    "title": "The Hero Starts Over at the Academy",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=The%20Hero%20Starts%20Over%20at%20the%20Academy",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/fantasy/The Hero Starts Over at the Academy.cbz",
+    "category": "fantasy",
+    "status": "Ongoing",
+    "type": "Comic"
+  },
+  {
+    "manga_id": "the-knight-king-who-returned-with-a-god",
+    "title": "The Knight King Who Returned with a God",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=The%20Knight%20King%20Who%20Returned%20with%20a%20God",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/fantasy/The Knight King Who Returned with a God.cbz",
+    "category": "fantasy",
+    "status": "Ongoing",
+    "type": "Comic"
+  },
+  {
+    "manga_id": "the-nebula-s-civilization",
+    "title": "The Nebula s Civilization",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=The%20Nebula%20s%20Civilization",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/fantasy/The Nebula_s Civilization.cbz",
+    "category": "fantasy",
+    "status": "Ongoing",
+    "type": "Comic"
+  },
+  {
+    "manga_id": "pick-me-up-infinite-gacha",
+    "title": "Pick Me Up, Infinite Gacha",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=Pick%20Me%20Up%2C%20Infinite%20Gacha",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/romance/Pick Me Up, Infinite Gacha.cbz",
+    "category": "romance",
+    "status": "Ongoing",
+    "type": "Comic"
+  },
+  {
+    "manga_id": "raising-villains-the-right-way",
+    "title": "Raising Villains the Right Way",
+    "cover": "https://via.placeholder.com/300x450/222/39ff14?text=Raising%20Villains%20the%20Right%20Way",
+    "cbzUrl": "https://cdn.jsdelivr.net/gh/cloudygrey-ops/aulmonstadata@main/romance/Raising Villains the Right Way.cbz",
+    "category": "romance",
+    "status": "Ongoing",
+    "type": "Comic"
+  }
+]
